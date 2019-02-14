@@ -2,5 +2,5 @@
 ### A workshop for Processing Community Day @ HK 2019
 #### By Daniel Howe
 
-<img sre="https://raw.githubusercontent.com/dhowe/GetGen/master/getgen.png" width="600"/>
+<img src="https://raw.githubusercontent.com/dhowe/GetGen/master/getgen.png" width="600"/>
 
