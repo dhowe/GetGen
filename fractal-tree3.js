@@ -1,3 +1,5 @@
+// shows animation via noise
+
 var angle = 30;
 var seed = 0;
 var nk = 0;
